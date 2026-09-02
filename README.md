@@ -10,3 +10,5 @@ My portfolio can be viewed [here](https://github.com/vlazo1214/portfolio).
 Email: [vivilazo2@yahoo.com](mailto:vivilazo2@yahoo.com)
 <br>
 LinkedIn: https://www.linkedin.com/in/vivi-lazo/
+
+<a href="res.pdf" download>Resume</a>
