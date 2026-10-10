@@ -11,4 +11,4 @@ Email: [vivilazo2@yahoo.com](mailto:vivilazo2@yahoo.com)
 <br>
 LinkedIn: https://www.linkedin.com/in/vivi-lazo/
 
-<a href="res.pdf" download>Resume</a>
+Link to my resume: <a href="res.pdf" download>Resume</a>
